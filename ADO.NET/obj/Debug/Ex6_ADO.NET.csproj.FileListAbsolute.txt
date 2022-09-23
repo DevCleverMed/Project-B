@@ -1,0 +1,10 @@
+C:\Users\Ouardi\OneDrive - OFPPT\OFPPT-Docs\TDI\2ème Année\M202- Développement d'applications client-serveur\Codes\Ex6_ADO.NET\Ex6_ADO.NET\bin\Debug\Ex6_ADO.NET.exe.config
+C:\Users\Ouardi\OneDrive - OFPPT\OFPPT-Docs\TDI\2ème Année\M202- Développement d'applications client-serveur\Codes\Ex6_ADO.NET\Ex6_ADO.NET\bin\Debug\Ex6_ADO.NET.exe
+C:\Users\Ouardi\OneDrive - OFPPT\OFPPT-Docs\TDI\2ème Année\M202- Développement d'applications client-serveur\Codes\Ex6_ADO.NET\Ex6_ADO.NET\bin\Debug\Ex6_ADO.NET.pdb
+C:\Users\Ouardi\OneDrive - OFPPT\OFPPT-Docs\TDI\2ème Année\M202- Développement d'applications client-serveur\Codes\Ex6_ADO.NET\Ex6_ADO.NET\obj\Debug\Ex6_ADO.NET.csprojAssemblyReference.cache
+C:\Users\Ouardi\OneDrive - OFPPT\OFPPT-Docs\TDI\2ème Année\M202- Développement d'applications client-serveur\Codes\Ex6_ADO.NET\Ex6_ADO.NET\obj\Debug\Ex6_ADO.NET.Form1.resources
+C:\Users\Ouardi\OneDrive - OFPPT\OFPPT-Docs\TDI\2ème Année\M202- Développement d'applications client-serveur\Codes\Ex6_ADO.NET\Ex6_ADO.NET\obj\Debug\Ex6_ADO.NET.Properties.Resources.resources
+C:\Users\Ouardi\OneDrive - OFPPT\OFPPT-Docs\TDI\2ème Année\M202- Développement d'applications client-serveur\Codes\Ex6_ADO.NET\Ex6_ADO.NET\obj\Debug\Ex6_ADO.NET.csproj.GenerateResource.cache
+C:\Users\Ouardi\OneDrive - OFPPT\OFPPT-Docs\TDI\2ème Année\M202- Développement d'applications client-serveur\Codes\Ex6_ADO.NET\Ex6_ADO.NET\obj\Debug\Ex6_ADO.NET.csproj.CoreCompileInputs.cache
+C:\Users\Ouardi\OneDrive - OFPPT\OFPPT-Docs\TDI\2ème Année\M202- Développement d'applications client-serveur\Codes\Ex6_ADO.NET\Ex6_ADO.NET\obj\Debug\Ex6_ADO.NET.exe
+C:\Users\Ouardi\OneDrive - OFPPT\OFPPT-Docs\TDI\2ème Année\M202- Développement d'applications client-serveur\Codes\Ex6_ADO.NET\Ex6_ADO.NET\obj\Debug\Ex6_ADO.NET.pdb
